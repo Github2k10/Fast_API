@@ -1,1 +1,1 @@
-from .model import Blog
+from .blogs import Blog
